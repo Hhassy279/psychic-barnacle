@@ -36,8 +36,12 @@ Namespace Declaring variables
                                                             IsCitizen="True";
                                                              //
                                                              CanVote="True";
+                                                              //
+                                                              //
+                                                              //
+                    }                                                                                                                              
+                }                                                                                                                                  
                                                               
-                                                              
-                                                  
+        }                                          
                                               
                                             
