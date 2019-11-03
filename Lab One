@@ -1,0 +1,43 @@
+Namespace Declaring variables
+  {
+      Class Program
+      {
+          Static void Main(string{} args)
+          {
+            //
+            String First name;
+               String Middle initial;
+                    String lastName;
+                        String FullName;
+                        //
+                        //
+                          Int Age;
+                            Bool Is citizen;
+                              Bool can Vote;
+                                //
+                                //
+                                  Int HeightFeet;
+                                    //
+                                      Double heightInches;
+                                        DoubleTotalHeightCM;
+                                           //
+                                           String UsersFirstName="Hamza";
+                                            //
+                                            String usersMiddleInitial="S";
+                                              
+                                              String UsersLastName="Hassy";
+                                                //
+                                                  String UsersFullName="Hamza S. Hassy";
+                                                    //
+                                                      Int HeightFeet= "6Feet";
+                                                        Int HeightInches="0"Inches
+                                                          Int Age="39";
+                                                            //
+                                                            IsCitizen="True";
+                                                             //
+                                                             CanVote="True";
+                                                              
+                                                              
+                                                  
+                                              
+                                            
