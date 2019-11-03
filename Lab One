@@ -39,9 +39,17 @@ Namespace Declaring variables
                                                               //
                                                               //
                                                               //
-                    }                                                                                                                              
-                }                                                                                                                                  
+                                                                Print FullName;
+                                                                  Print TotalHeightCM;
+                                                                    Print CanVote;
+                                       }                             
+                                }                                
+                    
+              }      
+             }       
+         }           
+    ]                                                                                                                                              
                                                               
-        }                                          
+                                                  
                                               
                                             
